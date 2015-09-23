@@ -1,0 +1,7 @@
+symfony_community_distribution_user:
+    resource: "@SymfonyCommunityDistributionUserBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation

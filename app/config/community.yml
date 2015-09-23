@@ -1,0 +1,5 @@
+parameters:
+
+    # hwioauth
+    oauth_facebook_client_id: <facebook client id>
+    oauth_facebook_secret: <facebook secret>

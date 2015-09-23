@@ -1,0 +1,8 @@
+..bfg-report
+passwords.txt
+app/cache/
+app/config/parameters.yml
+app/logs/
+vendor/
+*.swp
+composer.lock
