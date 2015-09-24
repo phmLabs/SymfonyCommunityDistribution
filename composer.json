@@ -18,15 +18,11 @@
         "symfony/monolog-bundle": "~2.4",
         "sensio/distribution-bundle": "~4.0",
         "sensio/framework-extra-bundle": "^3.0.2",
-<<<<<<< HEAD
         "incenteev/composer-parameter-handler": "~2.0",
 
 	"hwi/oauth-bundle": "0.4.*@dev",
 	"whm/hypebundle": "dev-master",
     	"friendsofsymfony/user-bundle": "~2.0@dev"
-=======
-        "incenteev/composer-parameter-handler": "~2.0"
->>>>>>> c5840ba1ba670c229e242e93a52daa1afc11c9b2
     },
     "require-dev": {
         "sensio/generator-bundle": "~2.3"
